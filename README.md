@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @derrickbaruga7
+- 👋 Hi, I’m Derrick Baruga
 - 👀 I’m interested in analytics and storytelling through visualization
-- 🌱 I’m currently learning mathematics and data science
+- 🌱 I’m currently studying mathematics and data science
 - 💞️ I’m looking to collaborate on machine-learning projects
 - 📫 How to reach me: derrickbaruga7@gmail.com
 - ⚡ Fun fact: I can make a mean music mix
