@@ -6,7 +6,6 @@ I'm interested in analytics and storytelling through visualization. My backgroun
 
 | Project | What it explores |
 | --- | --- |
-| [LinkedIn campaign analysis](https://github.com/derrickbaruga7/LinkedIn-AB-test-notebook) | Click-through rates, confidence intervals, and campaign comparisons in Python. |
 | [Mapping median age in Europe](https://github.com/derrickbaruga7/mapping-median-age-europe) | Regional demographic patterns with R, Eurostat, and Leaflet. |
 | [Water and sewer usage](https://github.com/derrickbaruga7/Python-Data-Analysis) | Seasonal usage patterns and regression analysis. |
 | [Sales prediction with PyTorch](https://github.com/derrickbaruga7/Pytorch-Machine-Learning) | A feed-forward neural network for a sales regression experiment. |
